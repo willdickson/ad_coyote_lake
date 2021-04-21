@@ -1,0 +1,7 @@
+*~
+*.egg-info
+*.pyc
+*.swp
+__pycache__
+examples/data_250m
+examples/data_1000m
